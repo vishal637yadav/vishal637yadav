@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Vishal Singh Yadav here !
 
 <!--
 **vishal637yadav/vishal637yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +28,6 @@ Here are some ideas to get you started:
  
 <table>
   <tr>
-    <th>Image</th>
-    <th>Introduction</th>
-  </tr>
-  <tr>
     <td>
      <br><br>
      <image src="./vishal_yadav_profilePic.png"/>
@@ -41,7 +38,6 @@ Here are some ideas to get you started:
           <h1> 🧰 Technologies Used</h1>
           <h2> 🧰 Technologies Used</h2>
      
-    </td>
   </tr>
 </table>
 
