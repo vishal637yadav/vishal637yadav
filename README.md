@@ -32,16 +32,16 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      ![image](https://github.com/user-attachments/assets/95cccc36-3cd2-41a0-9716-eb325fb41cb5).
+     <br><br>
+     <image src="./vishal_yadav_profilePic.png"/>
     </td>
-    <td>  ✅ 12 years of Professional **Software Developer**<br>
+    <td>
+        ✅ 12 years of Professional **Software Developer**<br>
           🔭 Currently working with CitiCorp since 5.5 years<br>
-          ## 🧰 Technologies Used
+          <h1> 🧰 Technologies Used</h1>
+          <h2> 🧰 Technologies Used</h2>
+     
     </td>
-  </tr>
-  <tr>
-    <td>Item 2</td>
-    <td>Single line description</td>
   </tr>
 </table>
 
