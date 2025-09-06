@@ -31,7 +31,9 @@ Here are some ideas to get you started:
      <h2> ✅ Spring Boot Micro-Services</h2>
      <h2> ✅ Oracle Database</h2>
      <h2> ✅ MS SQL Server Database</h2>
-     <h2> ✅ SQL</h2>
+     <h2> ✅ SQL, PLSQL,T-SQL</h2>
+     <h2> ✅ JavaScript</h2>
+     <h2> ✅ Angular</h2>
     </td> 
   </tr>
 </table>
