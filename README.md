@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 🧰 
 - 🚀 
 -->
+### Total of 12+ years of Professional Software Development Experience.
+### Currently working with CitiCorp(5+years) as Application Developer.
+
 <table>
-  <tr>
-    <td colspan="3"><h3>&nbsp;&nbsp;&nbsp;Total Software Development Experience<br> &nbsp;&nbsp;&nbsp;12+ years</h3></td>
-    <td colspan="2"><h3> &nbsp;&nbsp;&nbsp;🔭 &nbsp;&nbsp;Currently working with CitiCorp (5+ years) </h3></td>
-  </tr>
   <tr>
     <td rowspan="2" colspan="3">
      <image src="./vishal_yadav_profilePic.png"/>
@@ -31,13 +30,15 @@ Here are some ideas to get you started:
     <td colspan="3">
       <table>
         <tr>
-          <td colspan="5">Programming Languages</td>
+          <td colspan="3">Programming Languages</td>
         <tr>
-        <td>✅ Java</td>
-        <td>✅ Javascript</td>
-        <td>✅ Typescript</td>
-        <td>✅ PL/SQL</td>  
-        <td>✅ T-SQL</td>  
+          <td>✅ Java</td>
+          <td>✅ Javascript</td>
+          <td>✅ Typescript</td>
+        </tr>
+        <tr>
+          <td>✅ PL/SQL</td>  
+          <td>✅ T-SQL</td>  
         </tr>
         <tr>
           <td colspan="5">Frameworks </td>
@@ -45,6 +46,8 @@ Here are some ideas to get you started:
         <td>✅ Spring Framework</td>
         <td>✅ Spring Boot</td>
         <td>✅ Spring JPA</td>
+        </tr>
+        <tr>
         <td>✅ Spring Cloud</td>  
         <td>✅ Angular</td>  
         </tr>
@@ -54,6 +57,8 @@ Here are some ideas to get you started:
         <td>✅ Oracle DB</td>
         <td>✅ MS Sql Server</td>
         <td>✅ Hive</td>
+        </tr>
+        <tr>
         <td>✅ Couchbase</td>  
         <td>✅ Mongo DB</td>  
         </tr>
