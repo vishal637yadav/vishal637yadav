@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td><h3>&nbsp;&nbsp;&nbsp;Total Software Development Experience<br> &nbsp;&nbsp;&nbsp;12+ years</h3></td>
+    <td colspan="3"><h3>&nbsp;&nbsp;&nbsp;Total Software Development Experience<br> &nbsp;&nbsp;&nbsp;12+ years</h3></td>
     <td colspan="2"><h3> &nbsp;&nbsp;&nbsp;🔭 &nbsp;&nbsp;Currently working with CitiCorp (5+ years) </h3></td>
   </tr>
   <tr>
-    <td rowspan="2">
+    <td rowspan="2" colspan="3">
      <image src="./vishal_yadav_profilePic.png"/>
     </td>
     <td colspan="3">
