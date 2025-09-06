@@ -1,7 +1,4 @@
-# About Me 
-## Vishal Singh Yadav | 12+ yrs Software Development Exprience | Working in CitiCorp.
-
-
+# 🚀🚀 Vishal Singh Yadav 🚀🚀
 <!--
 **vishal637yadav/vishal637yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,25 +14,52 @@ Here are some ideas to get you started:
 - 🧰 
 - 🚀 
 -->
-
 <table>
   <tr>
-    <td>
+    <td><h3>&nbsp;&nbsp;&nbsp;Total Software Development Experience<br> &nbsp;&nbsp;&nbsp;12+ years</h3></td>
+    <td colspan="2"><h3> &nbsp;&nbsp;&nbsp;🔭 &nbsp;&nbsp;Currently working with CitiCorp (5+ years) </h3></td>
+  </tr>
+  <tr>
+    <td rowspan="2">
      <image src="./vishal_yadav_profilePic.png"/>
     </td>
-    <td>
-     <h1> 🧰 Tech Stack </h1>
-     <h2> ✅ Java</h2>
-     <h2> ✅ Spring Framework</h2>
-     <h2> ✅ Rest API</h2>
-     <h2> ✅ Spring Boot Micro-Services</h2>
-     <h2> ✅ Oracle Database</h2>
-     <h2> ✅ MS SQL Server Database</h2>
-     <h2> ✅ SQL, PLSQL,T-SQL</h2>
-     <h2> ✅ JavaScript</h2>
-     <h2> ✅ Angular</h2>
+    <td colspan="3">
+     <h1> &nbsp;🧰 &nbsp;&nbsp;Tech Stack </h1>
     </td> 
   </tr>
+  <tr>
+    <td colspan="3">
+      <table>
+        <tr>
+          <td colspan="5">Programming Languages</td>
+        <tr>
+        <td>✅ Java</td>
+        <td>✅ Javascript</td>
+        <td>✅ Typescript</td>
+        <td>✅ PL/SQL</td>  
+        <td>✅ T-SQL</td>  
+        </tr>
+        <tr>
+          <td colspan="5">Frameworks </td>
+        <tr>
+        <td>✅ Spring Framework</td>
+        <td>✅ Spring Boot</td>
+        <td>✅ Spring JPA</td>
+        <td>✅ Spring Cloud</td>  
+        <td>✅ Angular</td>  
+        </tr>
+        <tr>
+          <td colspan="5">DataBase</td>
+        <tr>
+        <td>✅ Oracle DB</td>
+        <td>✅ MS Sql Server</td>
+        <td>✅ Hive</td>
+        <td>✅ Couchbase</td>  
+        <td>✅ Mongo DB</td>  
+        </tr>
+      </table>
+    </td>
+  </tr>     
 </table>
 
 
