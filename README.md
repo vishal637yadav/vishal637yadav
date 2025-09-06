@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 🧰 
 - 🚀 
 -->
-### Total of 12+ years of Professional Software Development Experience.
-### Currently working with CitiCorp(5+years) as Application Developer.
+### Senior Java Developer | 12+ Years of Experience in Backend & Distributed Systems.
 
 <table>
   <tr>
