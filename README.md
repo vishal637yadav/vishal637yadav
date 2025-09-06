@@ -1,11 +1,10 @@
-## Hi there 👋
-## Vishal Singh Yadav here !
+# About Me 
+## Vishal Singh Yadav | 12+ yrs Software Development Exprience | Working in CitiCorp.
+
 
 <!--
 **vishal637yadav/vishal637yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,30 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✅ 
+- 🧰 
+- 🚀 
 -->
 
-#  🔭 I’m currently working on ...
-
-|  | |
-|-------|----|
- ![image](https://github.com/user-attachments/assets/95cccc36-3cd2-41a0-9716-eb325fb41cb5)| * ✅ 12 years of Professional **Software Developer<br>
- *  <br> # 🧰 Technologies UsedTech Stack 12 years of Professional **Software Developer**
- *   
- 
- 🚀    | Launch, Deployment
- 
 <table>
   <tr>
     <td>
-     <br><br>
      <image src="./vishal_yadav_profilePic.png"/>
     </td>
     <td>
-        ✅ 12 years of Professional **Software Developer**<br>
-          🔭 Currently working with CitiCorp since 5.5 years<br>
-          <h1> 🧰 Technologies Used</h1>
-          <h2> 🧰 Technologies Used</h2>
-     
+     <h1> 🧰 Tech Stack </h1>
+     <h2> 🧰 Java</h2>
+     ![Java Logo](images/java_logo.png "The official Java logo")
+     ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg "Java Programming Language Logo")
+     <h2> 🧰 Java</h2>
+     <h2> 🧰 Java</h2>
+     <h2> 🧰 Java</h2>
+    </td> 
   </tr>
 </table>
 
