@@ -25,12 +25,13 @@ Here are some ideas to get you started:
     </td>
     <td>
      <h1> 🧰 Tech Stack </h1>
-     <h2> 🧰 Java</h2>
-     ![Java Logo](images/java_logo.png "The official Java logo")
-     ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg "Java Programming Language Logo")
-     <h2> 🧰 Java</h2>
-     <h2> 🧰 Java</h2>
-     <h2> 🧰 Java</h2>
+     <h2> ✅ Java</h2>
+     <h2> ✅ Spring Framework</h2>
+     <h2> ✅ Rest API</h2>
+     <h2> ✅ Spring Boot Micro-Services</h2>
+     <h2> ✅ Oracle Database</h2>
+     <h2> ✅ MS SQL Server Database</h2>
+     <h2> ✅ SQL</h2>
     </td> 
   </tr>
 </table>
